@@ -47,3 +47,6 @@ TagManager:
   - name: Planets
     uniqueID: 2619273339
     locked: 0
+  - name: Layer
+    uniqueID: 1087583559
+    locked: 0
